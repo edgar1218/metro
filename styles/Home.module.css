@@ -1,0 +1,42 @@
+
+.card{
+  width: 18rem;
+}
+.img{
+  width: 250px;
+  height: 300px;
+ justify-content: center;
+ margin: auto;
+}
+.contenedor{
+  
+padding: 10px;
+
+
+}
+
+
+.cardtext{
+  font-size: 18px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  text-align: center;
+}
+
+.titulo{
+  font-size: 18px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1; 
+  text-align: center;
+}
+
+
+.subti{
+margin: 15px;
+text-align: center;
+
+}
